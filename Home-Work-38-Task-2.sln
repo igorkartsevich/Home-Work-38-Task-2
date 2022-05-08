@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Home-Work-38-Task-2", "Home-Work-38-Task-2\Home-Work-38-Task-2.vcxproj", "{BFA9496C-760C-4E7E-8C67-2F00FF2D088F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFA9496C-760C-4E7E-8C67-2F00FF2D088F}.Debug|x64.ActiveCfg = Debug|x64
+		{BFA9496C-760C-4E7E-8C67-2F00FF2D088F}.Debug|x64.Build.0 = Debug|x64
+		{BFA9496C-760C-4E7E-8C67-2F00FF2D088F}.Release|x64.ActiveCfg = Release|x64
+		{BFA9496C-760C-4E7E-8C67-2F00FF2D088F}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C0662D4-F128-48D8-AE46-83136E5FB003}
+	EndGlobalSection
+EndGlobal
